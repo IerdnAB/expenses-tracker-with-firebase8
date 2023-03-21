@@ -10,4 +10,4 @@ Styling is simple, custom CSS but in the future it will be updated with Tailwind
 
 Firestore rules have been updated to protect user data. 
 
-App has been deployed on Firebase and can be accessed here: https://myexpenses-e2d27.web.com
+App has been deployed on Firebase and can be accessed here: https://myexpenses-e2d27.web.app/
